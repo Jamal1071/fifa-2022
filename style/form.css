@@ -1,0 +1,17 @@
+/*
+*
+* form.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+.btn-link-primary {
+    font-size: 15px;
+    font-weight: 500;
+    border: 3px solid #fff;
+    border-radius: 20px;
+    padding: 6px 10px 6px 10px;
+}
+.btn-container {
+    padding-top: 10px;
+}

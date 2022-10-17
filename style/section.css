@@ -1,0 +1,116 @@
+/*
+*
+* section.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+.news-bg {
+    background: linear-gradient(185.66deg,#3F071D 5.13%,#3F111D 49.3%);
+}
+.countdown-bg {
+    background: linear-gradient(0deg,#d20a46, #8a1538);
+}
+.section-primary {
+    background-color: #37051a;
+}
+.section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.spotlight-container {
+    background-image: url("../img/spotlight-countdown/spotlight-countdown-1.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 660px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.subtitle {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.s-img {
+    min-height: 197px;
+}
+.md-img {
+    border-radius: 10px;
+    width: 100%;
+    min-height: 190px;
+}
+.lg-img {
+    border-radius: 10px;
+    width: 100%;
+    min-height: 280px;
+}
+.xl-img {
+    border-radius: 10px;
+    width: 100%;
+    min-height: 400px;
+}
+.img-auto {
+    width: auto;
+    height: 437px;
+}
+.card-type-1 {
+    border-radius: 10px;
+    overflow: hidden;
+    min-height: 437px;
+}
+.card-title-1 {
+    text-align: center;
+    border-radius: 10px;
+    margin-top: -70px;
+}
+.package-container {
+    background-image: url("../img/worldcup-package/worldcup-package-1.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 660px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.t-size {
+    font-size: 40px;
+    margin: 0 20px;
+    font-weight: bold;
+}
+.logo {
+    margin-bottom: 80px;
+}
+.m-last {
+    margin-left: 300px;
+}
+.flag-group{
+    margin: 0 15px;
+    vertical-align: middle;
+}
+.flag-container {
+    margin: 15px;
+    padding: 5px;
+    background-color: #eeeee4;
+    border-radius: 10px;
+}
+.flag-container p {
+    color: #000000;
+    padding-right: 20px;
+    margin-left: 10px;
+}
+.group-header {
+    color: #37051a;
+    text-align: center;
+}
+.svg-container {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.group-box {
+    background-color: #fff;
+    margin: 20px;
+}
+.item img {
+    border-radius: 10px;
+}

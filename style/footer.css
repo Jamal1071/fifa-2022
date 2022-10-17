@@ -1,0 +1,48 @@
+/*
+*
+* footer.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+footer {
+    background-color: #550065;
+}
+.bottom-footer-container {
+    border-top: 2px solid #69cab1;
+}
+.bottom-footer-list {
+    list-style: none;
+    margin-left: 10px;
+}
+.bottom-footer-list li {
+    display: inline-block;
+    padding: 20px;
+    padding-left: 0;
+    margin: 0;
+}
+.copy-rights {
+    padding-top: 20px;
+}
+.sub-footer-container {
+    padding: 16px 0;
+    border-top: 1px solid #69cab1;
+}
+.sub-footer-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.sub-footer-list li {
+    display: inline-block;
+    padding: 20px;
+}
+.social-icon-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.social-icon-list li {
+    display: inline-block;
+    margin-right: 30px;
+}

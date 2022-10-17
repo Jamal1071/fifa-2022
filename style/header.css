@@ -1,0 +1,47 @@
+/*
+*
+* header.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+.top-menu {
+    border-bottom: 1px solid #475068;
+}
+.top-menu a {
+    display: inline-block;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.main-menu {
+    background-color: #1c0111
+}
+.main-menu:hover {
+    background-color: #020f2a;
+}
+.main-menu-list {
+    padding: 0;
+    margin: 0;
+}
+.main-menu-list li {
+    display: inline-block;
+    margin: 15px;
+}
+.font-bg {
+   background-color: #362c3d;
+   border-radius: 5px;
+   padding: 4px;
+   width: 35px;
+}
+.search-bg {
+    background-color: #362c3d;
+    padding: 5px 8px 5px 8px;
+    border-radius: 20px;
+    font-size: 12px;
+    width: 75px;
+}
+.fa-magnifying-glass {
+    font-size: 15px;
+    margin-right: 10px;
+}

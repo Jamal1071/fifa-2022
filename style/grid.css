@@ -1,0 +1,44 @@
+/*
+*
+* grid.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    align-items: middle;
+    justify-content: space-between;
+}
+.grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-column-gap: 25px;
+}
+.grid-4 {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-column-gap: 25px;
+    justify-content: space-between;
+}
+.grid-col-25 {
+    grid-column-gap: 25px;
+}
+.grid-v-center {
+    align-items: center;
+}
+.grid-col {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-column-gap: 20px;
+    align-items: center;
+    padding: 5px;
+}

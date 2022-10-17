@@ -1,0 +1,16 @@
+/*
+*
+* index.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+@import "base.css";
+@import "header.css";
+@import "section.css";
+@import "footer.css";
+@import "layout.css";
+@import "align.css";
+@import "grid.css";
+@import "spacing.css";
+@import "form.css";

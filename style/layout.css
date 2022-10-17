@@ -1,0 +1,25 @@
+/*
+*
+* layout.css
+* @author - Jamal
+* @date - 17 october 2022
+*/
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.cell-1 {
+    flex: 1;
+}
+.cell-300w {
+    max-width: 300px;
+}
+.wrapper {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.wrapper-1 {
+    padding-left: 200px;
+}
